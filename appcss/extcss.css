@@ -1,0 +1,23 @@
+body{
+    background-color: navyblue;
+}
+
+.input{
+            margin-top: 20px;
+}
+.header{
+    font-family: corbel;
+    font-size: 60px;
+}
+
+.green{
+    color: green;
+}
+
+.typewrite{
+	 border: 2px dotted green;
+}
+
+#reglist{
+	color: red;
+}
